@@ -1,4 +1,4 @@
-Hi, I'm Pearl Varia 👋
+# Hi, I'm Pearl Varia 👋
 
 Aspiring Software Developer | Exploring Data Science, AI & Machine Learning
 
